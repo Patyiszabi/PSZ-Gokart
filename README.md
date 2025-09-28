@@ -5,8 +5,11 @@ A projekt célja volt egy funkcionális foglalási rendszer létrehozása, ahol 
 Fő funkciók áttekintése:
   A program a főmenüből érhető el, és a következőket teszi lehetővé:
   Versenyzők Listája (Menüpont 1): Megjeleníti a program által generált összes regisztrált versenyző adatait (név, születési idő, ID, e-mail).
+  
   Időpontok Megjelenítése (Menüpont 2): Vizuálisan áttekinthetővé teszi az adott hónap foglaltságát egy egyszerű színkódolással.
+  
   Foglalás / Átfoglalás / Csatlakozás (Menüpont 3): Ezen a ponton kezelhető a teljes foglalási logika, beleértve az új foglalást és a meglévő foglaláshoz való csatlakozást is.
+  
   Kilépés (Menüpont 4): Bezárja a programot.
 
 Vizuális visszajelzés a telítettségről:
