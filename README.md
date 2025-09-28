@@ -16,8 +16,11 @@ Vizuális visszajelzés a telítettségről:
   Az Időpontok Megjelenítése menüpontban egyértelmű visszajelzést kapsz az időpont telítettségéről, a maximális 20 fős keret figyelembevételével:
 
   Szín	Jelentés	Létszám
+  
   Zöld	Szabad	Még nincs foglalás az időpontra.
+  
   Sárga	Részben foglalt	Van már foglalás (pl. 8-19 főre), de lehet külsősként csatlakozni a 20 fős limit eléréséig.
+  
   Piros	Telt ház	Az időpont teljesen betelt (20 fő). Nincs lehetőség csatlakozásra.
 
 A Foglalási és Csatlakozási Logika:
